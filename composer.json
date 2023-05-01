@@ -1,0 +1,22 @@
+{
+    "name": "pestrich/graphql-simple-demo",
+    "description": "Тестовое приложение с использованием GraphQL (простое)",
+    "type": "project",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Vitaly",
+            "email": "bnm9229bnm@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "webonyx/graphql-php": "^15.3"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
+}
